@@ -1,0 +1,15 @@
+.ResponsiveNavigation {
+	display: flex;
+	width: 100%;
+	background: rgba(172, 27, 27, 0.952);
+}
+
+.ResponsiveNavigationContainer {
+	display: flex;
+	width: 100%;
+	justify-content: space-around;
+}
+
+.fa-cart-shopping {
+	margin-right: 5px;
+}

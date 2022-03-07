@@ -1,0 +1,12 @@
+.header-container {
+	display: flex;
+	background-color: black;
+	justify-content: center;
+	align-items: center;
+	min-height: 30vh;
+	width: 100%;
+}
+
+img {
+	box-shadow: 0px 2px 4px 4px rgb(22, 24, 144);
+}
